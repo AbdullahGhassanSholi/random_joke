@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      * {
+        padding: 0;
+        margin: 0;
+      }
+      .container {
+        background-color: rgb(244, 174, 45);
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .box {
+        background-color: rgb(46, 35, 35);
+        width: 400px;
+        height: 400px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        justify-content: center;
+        align-items: center;
+        border-radius: 5px;
+      }
+      #disp {
+        background-color: rgb(244, 174, 45);
+        color: white;
+        padding: 10px;
+        border: none;
+        cursor: pointer;
+        font-weight: bold;
+        font-size: 20px;
+        border-radius: 10px;
+      }
+
+      #joke {
+        color: white;
+        width: 360px;
+        height: 200px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="box">
+        <div id="joke"></div>
+        <button id="disp">Display Joke</button>
+      </div>
+    </div>
+  </body>
+  <script src="script.js"></script>
+</html>
