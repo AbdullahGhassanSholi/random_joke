@@ -1,5 +1,5 @@
 # random_joke
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Abdullah and I'm a Computer Engineer , from Palestine</h2>
 
 ###
 
