@@ -25,6 +25,8 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/java-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
   
 </div>
 
