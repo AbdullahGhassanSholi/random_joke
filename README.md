@@ -1,4 +1,5 @@
-#The appearance of my project
+
+<h1 align="left">The appearance of my project</h1>
 <img src="images/1.png">
 <h1 align="left">Hey 👋 What's up?</h1>
 
